@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SathwikReddy5528
 - 👀 I’m interested in data structures
 - 🌱 I’m currently learning DSA
+- I'm also interested in frontend developer
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ui19co19@iiitsurat.ac.in
+- 📫 How to reach me sathwikreddy5528@gmail.com
      Phn no: 8309445099
 
 <!---
